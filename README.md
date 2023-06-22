@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/Skalwalker/AntiMoneyLaundering/blob/main/anti_money_laundering.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # AntiMoneyLaundering
 Classify Money Transactions in the "IBM Transactions for Anti Money Laundering" Dataset
 
